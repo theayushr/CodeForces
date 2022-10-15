@@ -1,3 +1,6 @@
+//https://codeforces.com/contest/1742/problem/A
+
+
 #include <iostream>
 #include <vector>
 #include <string>
