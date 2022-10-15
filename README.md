@@ -1,2 +1,2 @@
 # codeforces
-my codeforces solutions
+CodeForces Solutions
